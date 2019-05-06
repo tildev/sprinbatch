@@ -1,3 +1,4 @@
+-- https://github.com/spring-projects/spring-batch/blob/master/spring-batch-core/src/main/resources/org/springframework/batch/core/schema-mysql.sql
 -- spring-batch/spring-batch-core/src/main/resources/org/springframework/batch/core/schema-mysql.sql
 
 CREATE TABLE BATCH_JOB_INSTANCE  (
